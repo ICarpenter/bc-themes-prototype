@@ -1,0 +1,13 @@
+{
+  "name": "bc-themes-prototype",
+  "author": "Bigcommerce",
+  "private": true,
+  "description": "Bigcommerce Theme Engine Prototype",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ICarpenter/bc-themes-prototype.git"
+  },
+  "dependencies": {
+    "express-generator": "4.2.0"
+  }
+}
