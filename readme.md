@@ -1,3 +1,6 @@
+bc-themes-prototype
+===================
+
 Instructions:
 
 1) cd app
